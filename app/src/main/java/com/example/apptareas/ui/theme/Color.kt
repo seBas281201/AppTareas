@@ -1,0 +1,41 @@
+package com.example.apptareas.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+
+val PrimaryLight = Color(0xFF285A48)
+val OnPrimaryLight = Color(0xFFFFFFFF)
+val PrimaryContainerLight = Color(0xFFB0E4CC)
+val OnPrimaryContainerLight = Color(0xFF091413)
+val SecondaryLight = Color(0xFF408A71)
+val OnSecondaryLight = Color(0xFFFFFFFF)
+val SecondaryContainerLight = Color(0xFFB0E4CC)
+val OnSecondaryContainerLight = Color(0xFF091413)
+val BackgroundLight = Color(0xFFF5FAF8)
+val OnBackgroundLight = Color(0xFF091413)
+val SurfaceLight = Color(0xFFFFFFFF)
+val OnSurfaceLight = Color(0xFF091413)
+val SurfaceVariantLight = Color(0xFFDCEBE4)
+val OnSurfaceVariantLight = Color(0xFF285A48)
+val OutlineLight = Color(0xFF408A71)
+val ErrorLight = Color(0xFFB00020)
+val OnErrorLight = Color(0xFFFFFFFF)
+
+
+val PrimaryDark = Color(0xFF408A71)
+val OnPrimaryDark = Color(0xFF091413)
+val PrimaryContainerDark = Color(0xFF285A48)
+val OnPrimaryContainerDark = Color(0xFFB0E4CC)
+val SecondaryDark = Color(0xFFB0E4CC)
+val OnSecondaryDark = Color(0xFF091413)
+val SecondaryContainerDark = Color(0xFF408A71)
+val OnSecondaryContainerDark = Color(0xFF091413)
+val BackgroundDark = Color(0xFF091413)
+val OnBackgroundDark = Color(0xFFB0E4CC)
+val SurfaceDark = Color(0xFF122320)
+val OnSurfaceDark = Color(0xFFB0E4CC)
+val SurfaceVariantDark = Color(0xFF285A48)
+val OnSurfaceVariantDark = Color(0xFFB0E4CC)
+val OutlineDark = Color(0xFF408A71)
+val ErrorDark = Color(0xFFFF8A80)
+val OnErrorDark = Color(0xFF000000)
