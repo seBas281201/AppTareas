@@ -158,7 +158,7 @@ Este proyecto fue desarrollado como práctica de aprendizaje para fortalecer hab
 
 # 👨‍💻 Autor
 
-Sebastián Gonzalez
+Sebastián Navarro
 
 ## 🔗 Contacto
 
